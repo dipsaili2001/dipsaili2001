@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Automation, React Native, Frontend**
 
-- 💬 Ask me about **Data Structures, Coding, C++, Frontend**
+- 💬 Ask me about **Data Structures, Coding, C++, SQL, Finance**
 
 - 📫 How to reach me **dipesh.apply@gmail.com**
 
