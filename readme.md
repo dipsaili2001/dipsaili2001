@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipsaili2001&label=Profile%20views&color=0e75b6&style=flat" alt="dipsaili2001" /> </p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipsaili2001&show_icons=true&locale=en&layout=compact" alt="dipsaili2001" /></p>
-- 🌱 I’m currently learning **Web Automation and into building new things**
+- 🌱 I’m currently learning **Web Automation and finding ways to automate new things**
 
 - 💬 Ask me about **Data Structures, Coding, C++, SQL, Finance**
 
