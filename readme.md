@@ -5,7 +5,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipsaili2001&show_icons=true&locale=en&layout=compact" alt="dipsaili2001" /></p>
 - 🌱 I’m currently learning **Web Automation and finding ways to automate new things**
 
-- 💬 Ask me about **Data Structures, Coding, C++, SQL, Finance**
+- 💬 Ask me about **Data Structures, Coding, C++, Java, Python, Jenkins, SQL, Finance**
 
 - 📫 How to reach me **dipesh.apply@gmail.com**
 
